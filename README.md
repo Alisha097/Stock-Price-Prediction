@@ -1,4 +1,5 @@
-## Stock Price Prediction using Machine Learning
+### Stock Price Prediction using Machine Learning
+
 # About the project
 The objective of this project is to analyze the Tesla Stock Prices a
 
